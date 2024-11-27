@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-27T12:45:31 IST" name="Suite" finished-at="2024-11-27T12:45:44 IST" duration-ms="12837">
+    <groups>
+    </groups>
+    <test started-at="2024-11-27T12:45:31 IST" name="Test" finished-at="2024-11-27T12:45:44 IST" duration-ms="12837">
+      <class name="TestCases.validateRevenueCalculator">
+        <test-method is-config="true" signature="beforeeclass(java.lang.String)[pri:0, instance:TestCases.validateRevenueCalculator@765d7657]" started-at="2024-11-27T12:45:27 IST" name="beforeeclass" finished-at="2024-11-27T12:45:31 IST" duration-ms="4342" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeeclass -->
+        <test-method is-config="true" signature="beforeTests()[pri:0, instance:TestCases.validateRevenueCalculator@765d7657]" started-at="2024-11-27T12:45:31 IST" name="beforeTests" finished-at="2024-11-27T12:45:32 IST" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTests -->
+        <test-method is-config="true" signature="beforeMethods(java.lang.reflect.Method)[pri:0, instance:TestCases.validateRevenueCalculator@765d7657]" started-at="2024-11-27T12:45:32 IST" name="beforeMethods" finished-at="2024-11-27T12:45:32 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestCases.validateRevenueCalculator.nevigateToHomePage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethods -->
+        <test-method signature="nevigateToHomePage()[pri:1, instance:TestCases.validateRevenueCalculator@765d7657]" started-at="2024-11-27T12:45:32 IST" name="nevigateToHomePage" finished-at="2024-11-27T12:45:34 IST" duration-ms="2044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nevigateToHomePage -->
+        <test-method is-config="true" signature="afterMethods(org.testng.ITestResult)[pri:0, instance:TestCases.validateRevenueCalculator@765d7657]" started-at="2024-11-27T12:45:34 IST" name="afterMethods" finished-at="2024-11-27T12:45:34 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=nevigateToHomePage status=SUCCESS method=validateRevenueCalculator.nevigateToHomePage()[pri:1, instance:TestCases.validateRevenueCalculator@765d7657] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethods -->
+        <test-method signature="nevigateToRevenueCalculatorPage()[pri:2, instance:TestCases.validateRevenueCalculator@765d7657]" started-at="2024-11-27T12:45:34 IST" name="nevigateToRevenueCalculatorPage" finished-at="2024-11-27T12:45:38 IST" duration-ms="4135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nevigateToRevenueCalculatorPage -->
+        <test-method is-config="true" signature="beforeMethods(java.lang.reflect.Method)[pri:0, instance:TestCases.validateRevenueCalculator@765d7657]" started-at="2024-11-27T12:45:34 IST" name="beforeMethods" finished-at="2024-11-27T12:45:34 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestCases.validateRevenueCalculator.nevigateToRevenueCalculatorPage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethods -->
+        <test-method is-config="true" signature="afterMethods(org.testng.ITestResult)[pri:0, instance:TestCases.validateRevenueCalculator@765d7657]" started-at="2024-11-27T12:45:38 IST" name="afterMethods" finished-at="2024-11-27T12:45:38 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=nevigateToRevenueCalculatorPage status=SUCCESS method=validateRevenueCalculator.nevigateToRevenueCalculatorPage()[pri:2, instance:TestCases.validateRevenueCalculator@765d7657] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethods -->
+        <test-method is-config="true" signature="beforeMethods(java.lang.reflect.Method)[pri:0, instance:TestCases.validateRevenueCalculator@765d7657]" started-at="2024-11-27T12:45:38 IST" name="beforeMethods" finished-at="2024-11-27T12:45:38 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestCases.validateRevenueCalculator.scrolldownPageTillCalculator()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethods -->
+        <test-method signature="scrolldownPageTillCalculator()[pri:3, instance:TestCases.validateRevenueCalculator@765d7657]" started-at="2024-11-27T12:45:38 IST" name="scrolldownPageTillCalculator" finished-at="2024-11-27T12:45:40 IST" duration-ms="2067" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrolldownPageTillCalculator -->
+        <test-method is-config="true" signature="afterMethods(org.testng.ITestResult)[pri:0, instance:TestCases.validateRevenueCalculator@765d7657]" started-at="2024-11-27T12:45:40 IST" name="afterMethods" finished-at="2024-11-27T12:45:40 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=scrolldownPageTillCalculator status=SUCCESS method=validateRevenueCalculator.scrolldownPageTillCalculator()[pri:3, instance:TestCases.validateRevenueCalculator@765d7657] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethods -->
+        <test-method is-config="true" signature="beforeMethods(java.lang.reflect.Method)[pri:0, instance:TestCases.validateRevenueCalculator@765d7657]" started-at="2024-11-27T12:45:40 IST" name="beforeMethods" finished-at="2024-11-27T12:45:40 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestCases.validateRevenueCalculator.adjustslidebar() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethods -->
+        <test-method signature="adjustslidebar()[pri:4, instance:TestCases.validateRevenueCalculator@765d7657]" started-at="2024-11-27T12:45:40 IST" name="adjustslidebar" finished-at="2024-11-27T12:45:40 IST" duration-ms="467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adjustslidebar -->
+        <test-method is-config="true" signature="afterMethods(org.testng.ITestResult)[pri:0, instance:TestCases.validateRevenueCalculator@765d7657]" started-at="2024-11-27T12:45:40 IST" name="afterMethods" finished-at="2024-11-27T12:45:40 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=adjustslidebar status=SUCCESS method=validateRevenueCalculator.adjustslidebar()[pri:4, instance:TestCases.validateRevenueCalculator@765d7657] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethods -->
+        <test-method is-config="true" signature="beforeMethods(java.lang.reflect.Method)[pri:0, instance:TestCases.validateRevenueCalculator@765d7657]" started-at="2024-11-27T12:45:40 IST" name="beforeMethods" finished-at="2024-11-27T12:45:40 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestCases.validateRevenueCalculator.updatetextfield() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethods -->
+        <test-method signature="updatetextfield()[pri:5, instance:TestCases.validateRevenueCalculator@765d7657]" started-at="2024-11-27T12:45:40 IST" name="updatetextfield" finished-at="2024-11-27T12:45:43 IST" duration-ms="2235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updatetextfield -->
+        <test-method is-config="true" signature="afterMethods(org.testng.ITestResult)[pri:0, instance:TestCases.validateRevenueCalculator@765d7657]" started-at="2024-11-27T12:45:43 IST" name="afterMethods" finished-at="2024-11-27T12:45:43 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=updatetextfield status=SUCCESS method=validateRevenueCalculator.updatetextfield()[pri:5, instance:TestCases.validateRevenueCalculator@765d7657] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethods -->
+        <test-method signature="checktheboxes()[pri:6, instance:TestCases.validateRevenueCalculator@765d7657]" started-at="2024-11-27T12:45:43 IST" name="checktheboxes" finished-at="2024-11-27T12:45:43 IST" duration-ms="848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checktheboxes -->
+        <test-method is-config="true" signature="beforeMethods(java.lang.reflect.Method)[pri:0, instance:TestCases.validateRevenueCalculator@765d7657]" started-at="2024-11-27T12:45:43 IST" name="beforeMethods" finished-at="2024-11-27T12:45:43 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestCases.validateRevenueCalculator.checktheboxes() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethods -->
+        <test-method is-config="true" signature="afterMethods(org.testng.ITestResult)[pri:0, instance:TestCases.validateRevenueCalculator@765d7657]" started-at="2024-11-27T12:45:43 IST" name="afterMethods" finished-at="2024-11-27T12:45:43 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checktheboxes status=SUCCESS method=validateRevenueCalculator.checktheboxes()[pri:6, instance:TestCases.validateRevenueCalculator@765d7657] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethods -->
+        <test-method is-config="true" signature="beforeMethods(java.lang.reflect.Method)[pri:0, instance:TestCases.validateRevenueCalculator@765d7657]" started-at="2024-11-27T12:45:43 IST" name="beforeMethods" finished-at="2024-11-27T12:45:43 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestCases.validateRevenueCalculator.validateText()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethods -->
+        <test-method signature="validateText()[pri:7, instance:TestCases.validateRevenueCalculator@765d7657]" started-at="2024-11-27T12:45:43 IST" name="validateText" finished-at="2024-11-27T12:45:43 IST" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateText -->
+        <test-method is-config="true" signature="afterMethods(org.testng.ITestResult)[pri:0, instance:TestCases.validateRevenueCalculator@765d7657]" started-at="2024-11-27T12:45:43 IST" name="afterMethods" finished-at="2024-11-27T12:45:43 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateText status=SUCCESS method=validateRevenueCalculator.validateText()[pri:7, instance:TestCases.validateRevenueCalculator@765d7657] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethods -->
+        <test-method signature="validateTotalRecuurringRembursementValue()[pri:8, instance:TestCases.validateRevenueCalculator@765d7657]" started-at="2024-11-27T12:45:43 IST" name="validateTotalRecuurringRembursementValue" finished-at="2024-11-27T12:45:43 IST" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTotalRecuurringRembursementValue -->
+        <test-method is-config="true" signature="beforeMethods(java.lang.reflect.Method)[pri:0, instance:TestCases.validateRevenueCalculator@765d7657]" started-at="2024-11-27T12:45:43 IST" name="beforeMethods" finished-at="2024-11-27T12:45:43 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestCases.validateRevenueCalculator.validateTotalRecuurringRembursementValue()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethods -->
+        <test-method is-config="true" signature="afterMethods(org.testng.ITestResult)[pri:0, instance:TestCases.validateRevenueCalculator@765d7657]" started-at="2024-11-27T12:45:43 IST" name="afterMethods" finished-at="2024-11-27T12:45:43 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateTotalRecuurringRembursementValue status=SUCCESS method=validateRevenueCalculator.validateTotalRecuurringRembursementValue()[pri:8, instance:TestCases.validateRevenueCalculator@765d7657] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethods -->
+        <test-method is-config="true" signature="afterTests()[pri:0, instance:TestCases.validateRevenueCalculator@765d7657]" started-at="2024-11-27T12:45:43 IST" name="afterTests" finished-at="2024-11-27T12:45:44 IST" duration-ms="781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTests -->
+        <test-method is-config="true" signature="afterrclass()[pri:0, instance:TestCases.validateRevenueCalculator@765d7657]" started-at="2024-11-27T12:45:44 IST" name="afterrclass" finished-at="2024-11-27T12:45:45 IST" duration-ms="285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterrclass -->
+      </class> <!-- TestCases.validateRevenueCalculator -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
